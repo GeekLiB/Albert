@@ -1,10 +1,9 @@
 安卓开发书籍精选
-1.《精通android》   http://www.ed2000.com/ShowFile-424672.html
- 安卓系列：https://pan.baidu.com/disk/home#list/path=%2FAndroid
-2.Arduino 系列    https://pan.baidu.com/disk/home#list/path=%2FArduino%20%E5%8D%95%E7%89%87%E6%9C%BA
-3.Google书籍   https://pan.baidu.com/disk/home#list/path=%2FGoogle
-4.黑客教程  https://pan.baidu.com/disk/home#list/path=%2F%E9%BB%91%E5%AE%A2
-5.web 开发   https://pan.baidu.com/disk/home#list/path=%2Fweb
-6.创业榜样   https://pan.baidu.com/disk/home#list/path=%2F%E6%A6%9C%E6%A0%B7
-7.unity教程   https://pan.baidu.com/disk/home#list/path=%2Funity
-算法书籍  https://pan.baidu.com/disk/home#list/path=%2F%E7%AE%97%E6%B3%95%E7%AF%87
+1.《精通android》   链接: https://pan.baidu.com/s/1jHPAjvo 密码: yfdv </br>
+2.Arduino 系列   链接: https://pan.baidu.com/s/1c1RimRY 密码: 4rpc   </br?
+3.谁是谷歌想要的人才？破解世界最顶尖公司的面试  链接: https://pan.baidu.com/s/1pKMIgVD 密码: nvmj
+4.黑客教程  链接: https://pan.baidu.com/s/1c1DBeec 密码: utrp
+5.PHP 开发1200例   链接: https://pan.baidu.com/s/1miDBbZi 密码: 969v
+6.黑客与画家   链接: https://pan.baidu.com/s/1kV4jDyv 密码: p4ns
+7.unity手游开发  链接: https://pan.baidu.com/s/1mi1zKBQ 密码: kjdc
+8.程序员实用算法  链接: https://pan.baidu.com/s/1jH8Fk6U 密码: kuj6
