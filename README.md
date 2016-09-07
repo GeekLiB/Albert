@@ -6,6 +6,8 @@
 5.PHP 开发1200例   链接: https://pan.baidu.com/s/1miDBbZi 密码: 969v   </br>
 6.黑客与画家   链接: https://pan.baidu.com/s/1kV4jDyv 密码: p4ns   </br>
 7.unity手游开发  链接: https://pan.baidu.com/s/1mi1zKBQ 密码: kjdc   </br>
-8.程序员实用算法  链接: https://pan.baidu.com/s/1jH8Fk6U 密码: kuj6
-
+8.程序员实用算法  链接: https://pan.baidu.com/s/1jH8Fk6U 密码: kuj6   </br>
+9.java web 开发1200例  链接: https://pan.baidu.com/s/1nv73uat 密码: 4rpq </br>
+10.java 经典编程300例  链接: https://pan.baidu.com/s/1boNM4Wn 密码: 2fnc </br>
+11.学习 OpenCV(中文版)   链接: https://pan.baidu.com/s/1b8p4pK 密码: pmrk  
 更新中...
