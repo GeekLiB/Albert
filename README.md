@@ -19,5 +19,10 @@
 18.《深入理解Android Telephony原理剖析与最佳实践》 链接: https://pan.baidu.com/s/1ccbK2i 密码: ig3q </br>
 19.《Android项目开发详解》.( 翟大昆,陈春茶 ) 链接: https://pan.baidu.com/s/1nvtqrsl 密码: htxe </br>
 20.《Google Android SDK开发范例大全(第3版)》链接: https://pan.baidu.com/s/1pLAhjVt 密码: 5m4e </br>
-21.《线上幽灵 世界头号黑客米特尼克自传》.((美)Kevin Mitnick) 链接: https://pan.baidu.com/s/1boXWdP1 密码: zqbj
+21.《线上幽灵 世界头号黑客米特尼克自传》.((美)Kevin Mitnick) 链接: https://pan.baidu.com/s/1boXWdP1 密码: zqbj</br>
+22.硅谷之火   链接: https://pan.baidu.com/s/1dE3zWTr 密码: whif
+23.OpenCV3编程入门_毛星云编著_电子工业出版 链接: https://pan.baidu.com/s/1miyIjWG 密码: he6p  </br>
+24.Tomcat与Java.Web开发技术详解 链接: https://pan.baidu.com/s/1mhXDRtu 密码: nit3 </br>
+25.JAVA网络编程(第3版)  链接: https://pan.baidu.com/s/1cmluRc 密码: g5ya </br>
+26.算法概论（Algorithm）  链接: https://pan.baidu.com/s/1nuYXGNJ 密码: e5vi
 更新中...
