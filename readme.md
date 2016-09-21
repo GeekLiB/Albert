@@ -24,5 +24,8 @@
 23.OpenCV3编程入门_毛星云编著_电子工业出版 链接: https://pan.baidu.com/s/1miyIjWG 密码: he6p  </br>
 24.Tomcat与Java.Web开发技术详解 链接: https://pan.baidu.com/s/1mhXDRtu 密码: nit3 </br>
 25.JAVA网络编程(第3版)  链接: https://pan.baidu.com/s/1cmluRc 密码: g5ya </br>
-26.算法概论（Algorithm）  链接: https://pan.baidu.com/s/1nuYXGNJ 密码: e5vi
+26.算法概论（Algorithm）  链接: https://pan.baidu.com/s/1nuYXGNJ 密码: e5vi </br>
+27.  《Android 3D游戏开发技术详解与典型案例》链接: https://pan.baidu.com/s/1bpzGTGV 密码: ua9k </br>
+28.  《Android项目开发详解》  链接: https://pan.baidu.com/s/1ge4cpxD 密码: 6gbt  </br>
+29.  物联网导论  链接: https://pan.baidu.com/s/1hrGl3ak 密码: vsgf 
 更新中...
