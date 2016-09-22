@@ -27,5 +27,8 @@
 26.算法概论（Algorithm）  链接: https://pan.baidu.com/s/1nuYXGNJ 密码: e5vi </br>
 27.  《Android 3D游戏开发技术详解与典型案例》链接: https://pan.baidu.com/s/1bpzGTGV 密码: ua9k </br>
 28.  《Android项目开发详解》  链接: https://pan.baidu.com/s/1ge4cpxD 密码: 6gbt  </br>
-29.  物联网导论  链接: https://pan.baidu.com/s/1hrGl3ak 密码: vsgf 
+29.  物联网导论  链接: https://pan.baidu.com/s/1hrGl3ak 密码: vsgf </br>
+30.  Kinect人机交互开发实践 链接: https://pan.baidu.com/s/1slGjzuX 密码: v6pc </br>
+31.  基于Kinect开发用于幼儿教育的手势识别   链接: https://pan.baidu.com/s/1jIweU8m 密码: k3wb </br>
+32.  kinect应用开发实战（全书）  链接: https://pan.baidu.com/s/1bNPpMI 密码: qdpy </br>
 更新中...
