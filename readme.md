@@ -31,4 +31,7 @@
 30.  Kinect人机交互开发实践 链接: https://pan.baidu.com/s/1slGjzuX 密码: v6pc </br>
 31.  基于Kinect开发用于幼儿教育的手势识别   链接: https://pan.baidu.com/s/1jIweU8m 密码: k3wb </br>
 32.  kinect应用开发实战（全书）  链接: https://pan.baidu.com/s/1bNPpMI 密码: qdpy </br>
+33. OpenCV 2 计算机视觉编程手册_中文版  链接: https://pan.baidu.com/s/1nvyGMwD 密码: jwbf</br>
+34.一种用于图像目标识别的神经网络及其车型识别应用  链接: https://pan.baidu.com/s/1c12MErQ 密码: n7q9 </br>
+35.深入理解OpenCV 实用计算机视觉项目解析   链接: https://pan.baidu.com/s/1eS8y0TW 密码: 1b2a </br>
 更新中...
