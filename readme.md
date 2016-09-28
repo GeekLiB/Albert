@@ -34,4 +34,7 @@
 33. OpenCV 2 计算机视觉编程手册_中文版  链接: https://pan.baidu.com/s/1nvyGMwD 密码: jwbf</br>
 34.一种用于图像目标识别的神经网络及其车型识别应用  链接: https://pan.baidu.com/s/1c12MErQ 密码: n7q9 </br>
 35.深入理解OpenCV 实用计算机视觉项目解析   链接: https://pan.baidu.com/s/1eS8y0TW 密码: 1b2a </br>
+36. 十五个经典算法研究与总结、目录+索引   链接: https://pan.baidu.com/s/1o7ONh82 密码: jvyt </br>
+37.代码大全2中文版   链接: https://pan.baidu.com/s/1qYOtra8 密码: t6wf </br>
+38.算法技术手册  链接: https://pan.baidu.com/s/1mi10RbE 密码: cvw5
 更新中...
